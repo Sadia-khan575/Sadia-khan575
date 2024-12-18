@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @Sadia-khan575
-- 👀 I’m interested in appliction development
-- 🌱 I’m currently learning flutter(dart)language
-- 💞️ I’m looking to collaborate on developers
-- 📫 How to reach me 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I’m @Sadia-khan575  
 
-<!---
-Sadia-khan575/Sadia-khan575 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 **I’m interested in application development.**  
+🌱 **Currently learning:** Flutter (Dart) language.  
+💞️ **Looking to collaborate with:** Developers and tech enthusiasts to build innovative applications.  
+📫 **How to reach me:**  
+   - Email: [sadi986543@gmail.com]   
+
+😄 **Pronouns:** She/Her  
+⚡ **Fun fact:** I’m always excited to solve problems, whether in code or in life!  
+
+---
+
+✨ Let’s create something amazing together!
